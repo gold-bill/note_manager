@@ -41,7 +41,7 @@ date_issue = "20/20/2000"
 date_create_output = date_create[0:5:1]
 date_issue_output = date_issue[0:5:1]
 print("Дата создания:", date_create_output)
-print(f"Дата окончания срока исполнения: {date_issue_output}")
+print(f"Дата окончания срока исполнения: {date_issue_output}")w
 """
 #Третий вариант. Форматирование с нужным символом.
 date_create = input("Введите дату создания заметки в формате ДД ММ ГГГГ:")
