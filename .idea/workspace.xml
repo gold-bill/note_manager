@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d5af16-ea8a-46dc-ad0a-8e28f155ca72" name="Changes" comment="rkrk">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f3d5af16-ea8a-46dc-ad0a-8e28f155ca72" name="Changes" comment="попытка 1">
+      <change afterPath="$PROJECT_DIR$/datechanger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/greetings.py" beforeDir="false" afterPath="$PROJECT_DIR$/greetings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "gold-bill"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gold-bill&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/gold-bill/note_manager.git",
-    "accountId": "69f561e4-14bd-4311-9b47-45424523e9a5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gold-bill/note_manager.git&quot;,
+    &quot;accountId&quot;: &quot;69f561e4-14bd-4311-9b47-45424523e9a5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -47,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.datechanger.executor": "Run",
     "Python.greetings.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -94,11 +94,37 @@
       <option name="project" value="LOCAL" />
       <updated>1737752674904</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="попытка">
+      <option name="closed" value="true" />
+      <created>1737753814504</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737753814504</updated>
+    </task>
+    <task id="LOCAL-00005" summary="попытка">
+      <option name="closed" value="true" />
+      <created>1737753984851</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737753984851</updated>
+    </task>
+    <task id="LOCAL-00006" summary="попытка 1">
+      <option name="closed" value="true" />
+      <created>1737754053183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737754053183</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rkrk" />
-    <option name="LAST_COMMIT_MESSAGE" value="rkrk" />
+    <MESSAGE value="попытка" />
+    <MESSAGE value="попытка 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="попытка 1" />
   </component>
 </project>
