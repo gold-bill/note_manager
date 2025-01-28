@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3d5af16-ea8a-46dc-ad0a-8e28f155ca72" name="Changes" comment="попытка 1">
-      <change afterPath="$PROJECT_DIR$/datechanger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f3d5af16-ea8a-46dc-ad0a-8e28f155ca72" name="Changes" comment="Задание выполнено." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +44,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.datechanger.executor": "Run",
+    "Python.error output.executor": "Run",
     "Python.greetings.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -118,13 +116,64 @@
       <option name="project" value="LOCAL" />
       <updated>1737754053183</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Задание выполнено.">
+      <option name="closed" value="true" />
+      <created>1738003532615</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738003532615</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Задание выполнено.">
+      <option name="closed" value="true" />
+      <created>1738007240721</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738007240721</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Задание выполнено.">
+      <option name="closed" value="true" />
+      <created>1738008889329</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738008889329</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Задание выполнено.">
+      <option name="closed" value="true" />
+      <created>1738009908543</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738009908543</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Задание выполнено.">
+      <option name="closed" value="true" />
+      <created>1738009930240</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738009930240</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rkrk" />
     <MESSAGE value="попытка" />
     <MESSAGE value="попытка 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="попытка 1" />
+    <MESSAGE value="Задание выполнено." />
+    <option name="LAST_COMMIT_MESSAGE" value="Задание выполнено." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/error output.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
